@@ -1,0 +1,69 @@
+body {
+    background: lightcoral;
+    align-content: center;
+    font-size: 18px;
+}
+
+
+.instructions {
+    background-color: bisque;
+    max-width: 80%;
+    border-radius: 20px;
+    margin: 2% auto;
+    text-align: left;
+    padding: 20px;
+    opacity: 0.98;
+}
+
+.goalscore {
+    background-color: bisque;
+    max-width: 80%;
+    border-radius: 20px;
+    margin: 2% auto;
+    text-align: center;
+    padding: 20px;
+    opacity: 0.98;
+    
+}
+
+.winslosses {
+    background-color: bisque;
+    max-width: 80%;
+    border-radius: 20px;
+    margin: 2% auto;
+    text-align: center;
+    padding: 20px;
+    opacity: 0.98;
+}
+
+
+.totalscore {
+    background-color: bisque;
+    max-width: 80%;
+    border-radius: 20px;
+    margin: 2% auto;
+    text-align: center;
+    padding: 20px;
+    opacity: 0.98;
+}
+
+.crystal {
+    background-color: bisque;
+    max-width: 80%;
+    border-radius: 10px;
+    margin: 2% auto;
+    text-align: center;
+    padding: 20px;
+    opacity: 0.98;
+}
+
+#red, #purple,  #green, #yellow  {
+    background-color: bisque;
+    max-width: 80%;
+    border-radius: 20px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    opacity: 0.98;
+    display: inline;
+}
